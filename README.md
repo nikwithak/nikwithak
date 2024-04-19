@@ -5,7 +5,7 @@ Hi. I'm Nik. I'm software engineer in Seattle, Washington with 14+ years experie
 ## Open Source Work
 
 * I am in the process of cleaning up a curated set of my prior software projects for release on GitHub.
-* I am mid-development of a new Rust web framework, which will be made available under the MIT lciense once I reach my first release milestone later this year.
+* I am mid-development of a new Rust web framework, which I plan to make available under the MIT license once I reach my first release milestone later this year.
 
 ### Following My Work
 
