@@ -17,7 +17,7 @@ I've been on both sides of the interviewing table more times than I can count. I
 
 ## Employment / Consulting
 
-If you are a recruiter or business hiring engineers, please reach out by email for a copy of my resume.
+If you are hiring as a recruiter or business, please reach out by email for a copy of my resume.
 
 ## Music
 
