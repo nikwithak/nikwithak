@@ -4,8 +4,8 @@ Hi. I'm Nik. I'm software engineer in Seattle, Washington with 14+ years experie
 
 ## Open Source Work
 
-* I am in the process of cleaning up a curated set of my prior software projects for release on GitHub.
-* I am mid-development of a new Rust web framework, which I plan to make available under the MIT license once I reach my first release milestone later this year.
+* I am in the process of cleaning up a curated set of my prior software projects for open-source release.
+* I am mid-development of a new Rust web framework, which I plan to make available under the MIT license once I reach my first release milestone later this year. [Email me](mailto:nwakg@pm.me) if you would like to be part of the early developer preview.
 
 ### Following My Work
 
@@ -17,7 +17,7 @@ I've been on both sides of the interviewing table more times than I can count. I
 
 ## Employment / Consulting
 
-If you are hiring as a recruiter or business, please reach out by email for a copy of my resume.
+If you are hiring as a recruiter or business, please reach out by [email](nwakg@pm.me) for a copy of my resume.
 
 ## Music
 
